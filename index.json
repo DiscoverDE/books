@@ -1,9 +1,8 @@
 [
     {
-        "portal":"Feedbo0ks",
+        "portal":"Feedbooks",
         "author":"Sattar Rahimbayli",
         "description":"Dummy Book",
-        "bookType":"pdf / epub / txt",
         "file":"dummy.pdf"
     }
 ]
