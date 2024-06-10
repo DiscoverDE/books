@@ -1,17 +1,9 @@
-[{
-        "portal": "Feedbooks",
-        "author": "Sattar Rahimbayli",
-        "title": {
-            "en": "Lorem Ipsum",
-            "de": "DE Lorem IPSUM",
-            "ru": "Лорем Ипсум"
-        },
-        "description": {
-            "en": "Lorem Ipsum Welcome short info",
-            "de": "Ein Zwei Drei Vier Funf",
-            "ru": "Один два три четыре"
-        },
-        "file": "dummy.txt",
+[   {
+        "portal": "Project ",
+        "author": "Arthur Achleitner",        
+        "title": "Im grünen Tann",
+        "file": "https://www.gutenberg.org/cache/epub/14105/pg14105.txt",
+        "mainLink":"https://www.gutenberg.org/ebooks/14105",
         "img": "lorem.jpg"
     }
 ]
