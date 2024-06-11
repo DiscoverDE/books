@@ -1,9 +1,10 @@
 [   {
-        "portal": "Project ",
+        "portal": "Project Gutenberg",
         "author": "Arthur Achleitner",        
         "title": "Im grünen Tann",
         "file": "https://www.gutenberg.org/cache/epub/14105/pg14105.txt",
         "mainLink":"https://www.gutenberg.org/ebooks/14105",
-        "img": "lorem.jpg"
+        "img": "lorem.jpg",
+        "key":"ImGrunenTann"
     }
 ]
