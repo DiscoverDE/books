@@ -1,10 +1,19 @@
-[   {
+[
+    {
         "portal": "Project Gutenberg",
-        "author": "Arthur Achleitner",        
+        "author": "Arthur Achleitner",
         "title": "Im grünen Tann",
         "file": "https://discoverde.github.io/books/shelf/ImGrunenTann.txt",
-        "mainLink":"https://www.gutenberg.org/ebooks/14105",
+        "mainLink": "https://www.gutenberg.org/ebooks/14105",
         "img": "ImGrunenTann.png",
-        "key":"ImGrunenTann"
+        "key": "ImGrunenTann"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "H. C. Andersen",
+        "title": "Märchen für Kinder",
+        "file": "https://discoverde.github.io/books/shelf/MarchenfurKinder.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/19163",
+        "img": "MarchenfurKinder.jpg",
+        "key": "MarchenfurKinder"
     }
 ]
