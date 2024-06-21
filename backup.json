@@ -1,27 +1,3 @@
 [
-    {
-        "portal": "Project Gutenberg",
-        "author": "Daniel Defoe",
-        "title": "Robinson Crusoe",
-        "file": "https://discoverde.github.io/books/shelf/Robinson.txt",
-        "mainLink": "https://gutenberg.org/ebooks/60344",
-        "img": "Robinson.jpg",
-        "key": "Robinson"
-    }, {
-        "portal": "Project Gutenberg",
-        "author": "Oscar Wilde",
-        "title": "Das Bildnis des Dorian Gray",
-        "file": "https://discoverde.github.io/books/shelf/DorianGray.txt",
-        "mainLink": "https://www.gutenberg.org/ebooks/44238",
-        "img": "DorianGray.jpg",
-        "key": "DorianGray"
-    }, {
-        "portal": "Project Gutenberg",
-        "author": "Charles Dickens",
-        "title": "Oliver Twist",
-        "file": "https://discoverde.github.io/books/shelf/OliverTwist.txt",
-        "mainLink": "https://www.gutenberg.org/ebooks/44238",
-        "img": "OliverTwist.jpg",
-        "key": "OliverTwist"
-    }
+   
 ]
