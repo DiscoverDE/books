@@ -1,6 +1,14 @@
 [
     {
         "portal": "Project Gutenberg",
+        "author": "Charles Dickens",
+        "title": "Zwei Städte",
+        "file": "https://discoverde.github.io/books/shelf/ZweiStadte.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/58145",
+        "img": "ZweiStadte.jpg",
+        "key": "ZweiStadte"
+    }, {
+        "portal": "Project Gutenberg",
         "author": "Arthur Achleitner",
         "title": "Im grünen Tann",
         "file": "https://discoverde.github.io/books/shelf/ImGrunenTann.txt",
