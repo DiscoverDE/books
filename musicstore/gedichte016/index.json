@@ -1,17 +1,20 @@
 [
     {
+        "portal": "Claudia Salto",
         "author": "Karl May",
-        "title": "Mein Liebchen",       
+        "title": "Mein Liebchen",
         "audio": "MeinLiebchen.mp3",
         "icon": "heart",
         "family": "AntDesign"
     }, {
+        "portal": "Claudia Salto",
         "author": "Matthias Claudius",
         "title": "Der Bauer, nach geendigtem Prozeß",
         "audio": "DerBauer.mp3",
         "icon": "construction",
         "family": "MaterialIcons"
     }, {
+        "portal": "Claudia Salto",
         "author": "Louise Otto Peters",
         "title": "Die Jungfrau auf dem Lurlei",
         "audio": "DieJungfrau.mp3",
