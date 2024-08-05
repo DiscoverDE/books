@@ -31,5 +31,13 @@
         "mainLink": "https://www.gutenberg.org/ebooks/53731",
         "img": "Grotesken.jpg",
         "key": "Grotesken"
+    },  {
+        "portal": "Project Gutenberg",
+        "author": "C. M. Wieland",
+        "title": "Geschichte des Prinzen Biribinker",
+        "file": "https://discoverde.github.io/books/shelf/Biribinker.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/46580",
+        "img": "Biribinker.jpg",
+        "key": "Biribinker"
     }
 ]
