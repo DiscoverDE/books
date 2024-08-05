@@ -23,5 +23,13 @@
         "mainLink": "https://www.gutenberg.org/ebooks/60579",
         "img": "RomaneinerEhe.jpg",
         "key": "RomaneinerEhe"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "A.P. Chekhov",
+        "title": "Der persische Orden und andere Grotesken",
+        "file": "https://discoverde.github.io/books/shelf/Grotesken.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/53731",
+        "img": "Grotesken.jpg",
+        "key": "Grotesken"
     }
 ]
