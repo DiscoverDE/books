@@ -31,7 +31,15 @@
         "mainLink": "https://www.gutenberg.org/ebooks/53731",
         "img": "Grotesken.jpg",
         "key": "Grotesken"
-    },  {
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "A.P. Chekhov",
+        "title": "Der Bär: Groteske in einem Aufzug",
+        "file": "https://discoverde.github.io/books/shelf/Aufzug.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/22494",
+        "img": "Aufzug.jpg",
+        "key": "Aufzug"
+    }, {
         "portal": "Project Gutenberg",
         "author": "C. M. Wieland",
         "title": "Geschichte des Prinzen Biribinker",
