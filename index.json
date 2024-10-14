@@ -1,6 +1,14 @@
 [
     {
         "portal": "Project Gutenberg",
+        "author": "Wilhelm Hauff",
+        "title": "Der Mann im Mond",
+        "file": "https://discoverde.github.io/books/shelf/Mond.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/13451",
+        "img": "Mond.jpg",
+        "key": "Mond"
+    }, {
+        "portal": "Project Gutenberg",
         "author": "Gotthold E. Lessing",
         "title": "Fabeln und Erzählungen",
         "file": "https://discoverde.github.io/books/shelf/Fabeln.txt",
