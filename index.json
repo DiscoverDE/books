@@ -1,6 +1,38 @@
 [
     {
         "portal": "Project Gutenberg",
+        "author": "Johanna Spyri",
+        "title": "Heidi kann brauchen, was es gelernt",
+        "file": "https://discoverde.github.io/books/shelf/Heidi.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/7512",
+        "img": "Heidi.jpg",
+        "key": "Heidi"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "Wilhelm Hauff",
+        "title": "Der Mann im Mond",
+        "file": "https://discoverde.github.io/books/shelf/Mond.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/13451",
+        "img": "Mond.jpg",
+        "key": "Mond"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "Gotthold E. Lessing",
+        "title": "Fabeln und Erzählungen",
+        "file": "https://discoverde.github.io/books/shelf/Fabeln.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/9158",
+        "img": "Fabeln.jpg",
+        "key": "Fabeln"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "Lewis Carroll",
+        "title": "Alice's Abenteuer im Wunderland",
+        "file": "https://discoverde.github.io/books/shelf/AliceAbenteuer.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/19778",
+        "img": "AliceAbenteuer.jpg",
+        "key": "AliceAbenteuer"
+    }, {
+        "portal": "Project Gutenberg",
         "author": "William Shakespeare",
         "title": "Romeo und Julia",
         "file": "https://discoverde.github.io/books/shelf/RomeoJulia.txt",
