@@ -1,6 +1,14 @@
 [
     {
         "portal": "Project Gutenberg",
+        "author": "Johanna Spyri",
+        "title": "Heidi kann brauchen, was es gelernt",
+        "file": "https://discoverde.github.io/books/shelf/Heidi.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/7512",
+        "img": "Heidi.jpg",
+        "key": "Heidi"
+    }, {
+        "portal": "Project Gutenberg",
         "author": "Wilhelm Hauff",
         "title": "Der Mann im Mond",
         "file": "https://discoverde.github.io/books/shelf/Mond.txt",
