@@ -2,6 +2,14 @@
     {
         "portal": "Project Gutenberg",
         "author": "Mark Twain",
+        "title": "Abenteuer und Fahrten des Huckleberry Finn",
+        "file": "https://discoverde.github.io/books/shelf/HuckleberryFinn.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/30165",
+        "img": "HuckleberryFinn.jpg",
+        "key": "HuckleberryFinn"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "Mark Twain",
         "title": "Die Abenteuer Tom Sawyers",
         "file": "https://discoverde.github.io/books/shelf/TomSawyers.txt",
         "mainLink": "https://www.gutenberg.org/ebooks/30165",
