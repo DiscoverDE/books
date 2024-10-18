@@ -1,6 +1,14 @@
 [
     {
         "portal": "Project Gutenberg",
+        "author": "Mark Twain",
+        "title": "Die Abenteuer Tom Sawyers",
+        "file": "https://discoverde.github.io/books/shelf/TomSawyers.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/30165",
+        "img": "TomSawyers.png",
+        "key": "TomSawyers"
+    }, {
+        "portal": "Project Gutenberg",
         "author": "Johanna Spyri",
         "title": "Heidi kann brauchen, was es gelernt",
         "file": "https://discoverde.github.io/books/shelf/Heidi.txt",
