@@ -1,6 +1,38 @@
 [
     {
         "portal": "Project Gutenberg",
+        "author": "Franz Jung",
+        "title": "Das Trottelbuch",
+        "file": "https://discoverde.github.io/books/shelf/Trottelbuch.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/36718",
+        "img": "Trottelbuch.jpg",
+        "key": "Trottelbuch"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "Mark Twain",
+        "title": "Auf dem Mississippi",
+        "file": "https://discoverde.github.io/books/shelf/Mississippi.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/64869",
+        "img": "Mississippi.jpg",
+        "key": "Mississippi"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "Mark Twain",
+        "title": "Abenteuer und Fahrten des Huckleberry Finn",
+        "file": "https://discoverde.github.io/books/shelf/HuckleberryFinn.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/64482",
+        "img": "HuckleberryFinn.jpg",
+        "key": "HuckleberryFinn"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "Mark Twain",
+        "title": "Die Abenteuer Tom Sawyers",
+        "file": "https://discoverde.github.io/books/shelf/TomSawyers.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/30165",
+        "img": "TomSawyers.png",
+        "key": "TomSawyers"
+    }, {
+        "portal": "Project Gutenberg",
         "author": "Johanna Spyri",
         "title": "Heidi kann brauchen, was es gelernt",
         "file": "https://discoverde.github.io/books/shelf/Heidi.txt",
