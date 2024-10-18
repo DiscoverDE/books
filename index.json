@@ -2,9 +2,17 @@
     {
         "portal": "Project Gutenberg",
         "author": "Mark Twain",
+        "title": "Auf dem Mississippi",
+        "file": "https://discoverde.github.io/books/shelf/Mississippi.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/64869",
+        "img": "Mississippi.jpg",
+        "key": "Mississippi"
+    }, {
+        "portal": "Project Gutenberg",
+        "author": "Mark Twain",
         "title": "Abenteuer und Fahrten des Huckleberry Finn",
         "file": "https://discoverde.github.io/books/shelf/HuckleberryFinn.txt",
-        "mainLink": "https://www.gutenberg.org/ebooks/30165",
+        "mainLink": "https://www.gutenberg.org/ebooks/64482",
         "img": "HuckleberryFinn.jpg",
         "key": "HuckleberryFinn"
     }, {
