@@ -1,6 +1,14 @@
 [
     {
         "portal": "Project Gutenberg",
+        "author": "Franz Jung",
+        "title": "Das Trottelbuch",
+        "file": "https://discoverde.github.io/books/shelf/Trottelbuch.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/36718",
+        "img": "Trottelbuch.jpg",
+        "key": "Trottelbuch"
+    }, {
+        "portal": "Project Gutenberg",
         "author": "Mark Twain",
         "title": "Auf dem Mississippi",
         "file": "https://discoverde.github.io/books/shelf/Mississippi.txt",
