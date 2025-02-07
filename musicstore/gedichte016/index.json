@@ -20,5 +20,124 @@
         "audio": "DieJungfrau.mp3",
         "icon": "human-female-girl",
         "family": "MaterialCommunityIcons"
+    }, {
+        "portal": "Friedrich",
+        "author": "Friedrich Hebbel",
+        "title": "Es ist Mitternacht",
+        "audio": "Mitternacht.mp3",
+        "icon": "moon",
+        "family": "Feather"
+    }, {
+        "portal": "Peregrinus Tyß",
+        "author": "Rainer Maria Rilke",
+        "title": "Blaue Hortensie",
+        "audio": "Hortensie.mp3",
+        "icon": "flower",
+        "family": "Entypo"
+    }, {
+        "portal": "Hokuspokus",
+        "author": "Georg Heym",
+        "title": "Der Baum",
+        "audio": "Baum.mp3",
+        "icon": "tree",
+        "family": "FontAwesome"
+    }, {
+        "portal": "Julia Niedermaier",
+        "author": "Otto zur Linde",
+        "title": "Umlernen muss die Mathematik",
+        "audio": "Mathematik.mp3",
+        "icon": "math-compass",
+        "family": "MaterialCommunityIcons"
+    }, {
+        "portal": "Julia Niedermaier",
+        "author": "Sophie Albrecht",
+        "title": "Morgenlied",
+        "audio": "Morgenlied.mp3",
+        "icon": "music",
+        "family": "FontAwesome"
+    }, {
+        "portal": "Shanty",
+        "author": "Ferdinand Bonn",
+        "title": "In die Falle gegangen",
+        "audio": "Falle.mp3",
+        "icon": "random",
+        "family": "FontAwesome"
+    }, {
+        "portal": "Shanty",
+        "author": "August von Seckendorff",
+        "title": "Der Liebe Preis",
+        "audio": "Liebe.mp3",
+        "icon": "heart",
+        "family": "AntDesign"
+    }, {
+        "portal": "Karlsson",
+        "author": "Georg Heym",
+        "title": "Bist Du nun tot?",
+        "audio": "Nuntot.mp3",
+        "icon": "grave-stone",
+        "family": "MaterialCommunityIcons"
+    }, {
+        "portal": "Friedrich",
+        "author": "Christian Morgenstern",
+        "title": "Bim, Bam, Bum",
+        "audio": "BimBamBum.mp3",
+        "icon": "bimobject",
+        "family": "FontAwesome5"
+    }, {
+        "portal": "Julia Niedermaier",
+        "author": "Carl Spitteler",
+        "title": "Das Sterbefest",
+        "audio": "Sterbefest.mp3",
+        "icon": "grave-stone",
+        "family": "MaterialCommunityIcons"
+    }, {
+        "portal": "Julia Niedermaier",
+        "author": "Paul Heyse",
+        "title": "Novelle",
+        "audio": "Novelle.mp3",
+        "icon": "book",
+        "family": "AntDesign"
+    }, {
+        "portal": "Julia Niedermaier",
+        "author": "Rudolf Presber",
+        "title": "Es waren drei junge Leute",
+        "audio": "Leute.mp3",
+        "icon": "people-group",
+        "family": "FontAwesome6"
+    }, {
+        "portal": "Julia Niedermaier",
+        "author": "Emanuel Geibel",
+        "title": "Ferien",
+        "audio": "Ferien.mp3",
+        "icon": "emoticon-happy-outline",
+        "family": "MaterialCommunityIcons"
+    }, {
+        "portal": "Hokuspokus",
+        "author": "Christian Morgenstern",
+        "title": "Am Meer",
+        "audio": "Meer.mp3",
+        "icon": "water",
+        "family": "FontAwesome5"
+    }, {
+        "portal": "Hokuspokus",
+        "author": "Paul Boldt",
+        "title": "Die Liebesfrau",
+        "audio": "Liebesfrau.mp3",
+        "icon": "mother-heart",
+        "family": "MaterialCommunityIcons"
+    }, {
+        "portal": "Hokuspokus",
+        "author": "Christian Hoffmann",
+        "title": "So soll der purpur deiner lippen",
+        "audio": "Lippen.mp3",
+        "icon": "kiss",
+        "family": "FontAwesome5"
+    }, {
+        "portal": "Julia Niedermaier",
+        "author": "Walt Whitman",
+        "title": "Der Kapitän",
+        "audio": "Capitan.mp3",
+        "icon": "person-military-rifle",
+        "family": "FontAwesome6"
     }
 ]
