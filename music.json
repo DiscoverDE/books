@@ -1,13 +1,19 @@
 [
     {
         "portal": "LIBRIVOX",
+        "author": "Matthias Bodkin",
+        "title": "Fräulein Detektiv",
+        "mainLink": "https://librivox.org/fraeulein-detektiv-by-matthias-mcdonnell-bodkin/",
+        "img": "Frauleindetektiv.jpg",
+        "key": "frauleindetektiv"
+    }, {
+        "portal": "LIBRIVOX",
         "author": "---------",
         "title": "Sammlung deutscher Gedichte 016",
         "mainLink": "https://librivox.org/sammlung-deutscher-gedichte-016-by-various/",
         "img": "Gedichte016.jpg",
         "key": "gedichte016"
-    },
-    {
+    }, {
         "portal": "Project Gutenberg",
         "author": "Wilhelm Busch",
         "title": "Max und Moritz",
@@ -16,4 +22,3 @@
         "key": "maxundmoritz"
     }
 ]
-
