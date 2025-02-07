@@ -4,7 +4,84 @@
         "author": "Matthias Bodkin",
         "title": "Der falsche und der wahre Erbe",
         "audio": "fraeuleindetektiv_01.mp3",
-        "icon": "heart",
+        "icon": "people-group",
+        "family": "FontAwesome6"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Die versteckte Violine",
+        "audio": "fraeuleindetektiv_02.mp3",
+        "icon": "violin",
+        "family": "MaterialCommunityIcons"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Der Krückstock",
+        "audio": "fraeuleindetektiv_03.mp3",
+        "icon": "candy-cane",
+        "family": "FontAwesome6"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Die Sibylle",
+        "audio": "fraeuleindetektiv_04.mp3",
+        "icon": "search1",
         "family": "AntDesign"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Wer gewinnt?",
+        "audio": "fraeuleindetektiv_05.mp3",
+        "icon": "trophy",
+        "family": "Entypo"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Ein Seidenknäuel",
+        "audio": "fraeuleindetektiv_06.mp3",
+        "icon": "futbol-ball",
+        "family": "FontAwesome6"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Auf der Lokomotive",
+        "audio": "fraeuleindetektiv_07.mp3",
+        "icon": "train",
+        "family": "FontAwesome"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Des Großonkels Vermächtnis",
+        "audio": "fraeuleindetektiv_08.mp3",
+        "icon": "elderly",
+        "family": "MaterialIcons"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "War es eine Fälschung?",
+        "audio": "fraeuleindetektiv_09.mp3",
+        "icon": "selection-search",
+        "family": "MaterialCommunityIcons"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Ein Versteckspiel",
+        "audio": "fraeuleindetektiv_10.mp3",
+        "icon": "person-search",
+        "family": "MaterialIcons"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Gewogen und zu leicht erfunden",
+        "audio": "fraeuleindetektiv_11.mp3",
+        "icon": "weight-hanging",
+        "family": "FontAwesome5"
+    }, {
+        "portal": "SowasVon",
+        "author": "Matthias Bodkin",
+        "title": "Künstliche Flügel",
+        "audio": "fraeuleindetektiv_12.mp3",
+        "icon": "paper-plane",
+        "family": "FontAwesome5"
     }
 ]
