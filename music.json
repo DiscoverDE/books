@@ -2,13 +2,20 @@
     {
         "portal": "LIBRIVOX",
         "author": "Matthias Bodkin",
+        "title": "Fräulein Else",
+        "mainLink": "https://librivox.org/fraeulein-else-by-arthur-schnitzler/",
+        "img": "Fraeuleinelse.jpg",
+        "key": "fraeuleinelse"
+    }, {
+        "portal": "LIBRIVOX",
+        "author": "Matthias Bodkin",
         "title": "Fräulein Detektiv",
         "mainLink": "https://librivox.org/fraeulein-detektiv-by-matthias-mcdonnell-bodkin/",
         "img": "Frauleindetektiv.jpg",
         "key": "frauleindetektiv"
     }, {
         "portal": "LIBRIVOX",
-        "author": "---------",
+        "author": "",
         "title": "Sammlung deutscher Gedichte 016",
         "mainLink": "https://librivox.org/sammlung-deutscher-gedichte-016-by-various/",
         "img": "Gedichte016.jpg",

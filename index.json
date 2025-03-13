@@ -1,6 +1,14 @@
 [
     {
         "portal": "Project Gutenberg",
+        "author": "Karl Alberti",
+        "title": "Japanische Märchen",
+        "file": "https://discoverde.github.io/books/shelf/Japanische.txt",
+        "mainLink": "https://www.gutenberg.org/ebooks/23393",
+        "img": "Japanische.jpg",
+        "key": "Japanische"
+    }, {
+        "portal": "Project Gutenberg",
         "author": "Franz Jung",
         "title": "Das Trottelbuch",
         "file": "https://discoverde.github.io/books/shelf/Trottelbuch.txt",
